@@ -1,9 +1,4 @@
-/*
- * FamilyTree.hpp
- *
- *  Created on: 12 April 2020
- *      Author: oriel malihi
- */
+
 
 #ifndef FamilyTree_HPP_
 #define FamilyTree_HPP_
