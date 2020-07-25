@@ -1,9 +1,4 @@
-/*
- * FamilyTree.cpp
- *
- *  Created on: 12 April 2020
- *      Author: oriel malihi
- */
+
 #include <string>
 #include <iostream>
 #include "FamilyTree.hpp"
