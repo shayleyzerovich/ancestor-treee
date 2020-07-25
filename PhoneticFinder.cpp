@@ -1,7 +1,3 @@
-/**
-Author - Netanel albert
-Date - 2020-3
-*/
 
 #include "PhoneticFinder.hpp"
 
