@@ -1,9 +1,4 @@
-/*
- * Test.cpp
- *
- *  Created on: 14 April 2020
- *      Author: oriel malihi
- */
+
 #include "doctest.h"
 #include <string>
 #include "FamilyTree.hpp"
